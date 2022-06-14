@@ -2364,7 +2364,7 @@ li a:hover,
 }
 
 .testimonial-panel:hover {
-	background-color: #c22c22;
+	background-color: #6bbfc9;
 	cursor: pointer;
 }
 
@@ -2411,7 +2411,7 @@ li a:hover,
 }
 
 .feature-panel .feature--icon {
-	color: #c22c22;
+	color: #6bbfc9;
 	font-size: 47px;
 	line-height: 1;
 	margin-bottom: 40px;
@@ -2499,18 +2499,18 @@ li a:hover,
 	line-height: 42px;
 	text-align: center;
 	border-radius: 50%;
-	color: #c22c22;
+	color: #6bbfc9;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
-	border: 2px solid #c22c22;
+	border: 2px solid #6bbfc9;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	transition: all 0.2s linear;
 }
 
 .feature-left-circle .feature-panel:hover .feature--icon {
-	background: #c22c22;
-	border-color: #c22c22;
+	background: #6bbfc9;
+	border-color: #6bbfc9;
 	color: #ffffff;
 }
 
@@ -3335,7 +3335,7 @@ body.page-dark {
 .page-dark .btn--primary:hover {
 	background-color: #f9f9f9;
 	border-color: #f9f9f9;
-	color: #c22c22;
+	color: #6bbfc9;
 }
 
 .page-dark .testimonial-panel:hover {
